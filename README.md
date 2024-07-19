@@ -2,7 +2,7 @@
     <h1 align="center">Hi 👋, I'm Iqra Hyder</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" align="right" alt="Coding">
+<img src="https://github.com/iqrahy/iqrahy/blob/main/gif.gif?raw=true" width="350" align="right" alt="Coding">
 
 - 🌱 I’m currently learning **JavaScript**
 
