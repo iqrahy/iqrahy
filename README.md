@@ -1,4 +1,4 @@
-
+![Logo](https://github.com/iqrahy/iqrahy/blob/main/linkedin%20banner.jpeg)
     <h1 align="center">Hi 👋, I'm Iqra Hyder</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
