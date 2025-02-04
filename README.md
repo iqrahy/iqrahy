@@ -1,8 +1,6 @@
-![Logo](https://github.com/iqrahy/iqrahy/blob/main/linkedin%20banner.jpeg)
-    <h1 align="center">Hi 👋, I'm Iqra Hyder</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-<img src="https://github.com/iqrahy/iqrahy/blob/main/gif.gif?raw=true" width="350" align="right" alt="Coding">
+![Logo](https://github.com/iqrahy/iqrahy/blob/main/Blue%20Modern%20Marketing%20Manager%20LinkedIn%20Banner.png)
+    <h1 align="center">Hi, I'm Iqra Hyder</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
